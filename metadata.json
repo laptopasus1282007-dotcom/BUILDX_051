@@ -1,0 +1,11 @@
+{
+  "name": "SurakshaSetu",
+  "description": "Mass gathering emergency ops, missing person finder, crowd flow radar, and field helpdesk sync interface for Deekshabhoomi.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
